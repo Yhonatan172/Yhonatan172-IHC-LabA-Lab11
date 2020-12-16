@@ -1,0 +1,112 @@
+ingreso:
+  usuario: Usuario o Correo Electronico
+  password: Contraseña
+validadores:
+  usuario: Ingrese correctamente su usuario o correo
+  password: Ingrese correctamente su contraseña
+recuperar:
+  contrasena: Olvido su Usuario o Contraseña? 
+boton:
+  ingreso: iniciar sesión
+  amigos: Amigos
+crear:
+  cuenta: O crea aqui una cuenta aqui!
+crearC:
+  cuenta: Crear Cuenta
+  usuario: Ingrese su nombre
+  apellidos: Ingrese sus Apellidos
+  correo: Ingrese su Correo Electronico
+  correo2: Correo
+  validarC: Ingrese correctamente su correo
+  password: Ingrese su Contraseña
+  validar: Ingrese nuevamente su Contraseña
+  crear: Crear
+  face: Crear con Facebook
+  google: Crear con Google
+
+ingresar:
+  face: Entrar con Facebook
+  ggle: Entrar con Google
+
+reporte:
+  title: Portando carteles y banderas ...
+  body: Plaza de Armas de Arequipa, Arequipa 04001
+  maps: Mostrar en mapas
+  verrep: Ver Reporte
+notificacion:
+  title: Notificaciones
+  subtitle: NUEVOS
+  msj: Te invito a que comentes
+  time: Hace 24 minutos
+user:
+  appBar: Usuario
+  title: Modificar Reporte
+  content: Esta seguro que desea Modifcar el reporte
+  ok: OK
+  cancel: Cancelar
+  title2: Eliminar Reporte
+  content2: Esta seguro que desea eliminar el reporte
+  butonmod: Modificar
+  butoneli: Eliminar
+
+connections:
+  publicacion: Publicaciones
+  seguidores: Seguidores
+  puntos: Puntos
+  header: Nivel 3 - Ciudadano
+
+crearReport:
+  title: Crear Reporte
+  iconText: Publicar
+  titleReport: Titulo del reporte
+  content: Contenido del reporte
+  button: Agregar Imagen
+
+recuperarCuenta:
+  appBar: Recuperar Cuenta
+  texto: Ingrese su correo
+  correo: Ingrese su Correo Electronico
+  correolabel: Correo
+  validar: Ingrese correctamente su correo
+  button: Enviar
+  title: Recuperar Contraseña
+  content: Se le envio un codigo de recuperacion a su correo
+  ok: OK
+codigoV:
+  appBar: Ingrese el Codigo
+  button: Continuar
+  dialogT: Codigo Introducido
+  dialogC: El codigo es correcto se procede a cambiar la contraseña
+  ok: OK
+  cancel: Cancelar
+  input: Ingrese su Codigo de Verificacion
+  inputLabel: Codigo
+  validar: Ingrese correctamente el codigo
+
+recovery:
+  appBar: Actualizar Contraseña
+  password: Ingrese su nueva Contraseña
+  passLabel: Contraseña
+  passValidar: Ingrese correctamente una contraseña
+  passRetry: Ingrese nuevamente su Contraseña
+  buttonT: Actualizar
+  dialogT: Actualizacion
+  dialogC: Se Actualizo correctamente su contraseña
+  ok: OK
+
+add:
+  chat: Chats
+  favoritos: Contactos Favoritos
+  categories:
+    - Mensajes
+    - Activos
+    - Grupos
+    - Solicitudes
+  new: NUEVO
+  textMsj: Enviar un mensaje...
+
+option:
+  appBar: Configuración
+  darkmode: ¿Usar el modo oscuro?
+  salir: Desconectar
+  

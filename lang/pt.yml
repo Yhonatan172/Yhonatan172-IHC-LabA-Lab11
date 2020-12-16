@@ -1,0 +1,119 @@
+ingreso:
+  usuario: Usuário ou e-mail
+  password: Senha
+
+validadores:
+  usuario: Digite seu nome de usuário ou e-mail corretamente
+  password: Digite sua senha corretamente
+
+recuperar:
+  contrasena: Esqueceu seu nome de usuário ou senha?
+
+boton:
+  ingreso: iniciar sessão
+  amigos: amigos
+
+crear:
+  cuenta: Ou crie uma conta aqui
+
+crearC:
+  cuenta: Criar uma conta
+  usuario: Digite seu nome
+  apellidos: Digite seu sobrenome
+  correo: Digite seu e-mail
+  correo2: e-mail
+  validarC: Digite seu e-mail corretamente
+  password: Coloque sua senha
+  validar: Digite sua senha novamente
+  crear: Crio
+  face: Crie com o Facebook
+  google: Crie com o Google
+
+
+ingresar:
+  face: Entrar com conta do facebook
+  ggle: Entrar com conta google
+
+reporte:
+  title: Carregando sinais e bandeiras
+  body: Praça Principal de Arequipa, Arequipa 04001
+  maps: Mostrar em um mapa
+  verrep: Ver relatório
+
+notificacion:
+  title: Notificações
+  subtitle: Novo
+  msj: Eu convido você a comentar
+  time: 24 minutos atrás
+
+user:
+  appBar: Do utilizador
+  title: Modificar relatório
+  content: Tem certeza que deseja modificar o relatório?
+  ok: ok
+  cancel: cancelar
+  title2: Apagar relatório
+  content2: Tem certeza de que deseja excluir o relatório?
+  butonmod: Modificar
+  butoneli: Remover
+
+connections:
+  publicacion: Publicações
+  seguidores: Seguidores
+  puntos: Pontos
+  header: Nível 3 - Cidadão
+
+crearReport:
+  title: Criar relatório
+  iconText: Para postar
+  titleReport: Título do relatório
+  content: Conteúdo do relatório
+  button: Adicionar imagem
+
+recuperarCuenta:
+  appBar: Recuperar a conta
+  texto: Digite seu e-mail
+  correo: Digite seu e-mail
+  correolabel: e-mail
+  validar: Digite seu e-mail corretamente
+  button: Enviar
+  title: Recuperar senha
+  content: Um código de recuperação foi enviado para seu e-mail
+  ok: Ok
+codigoV:
+  appBar: Digite o código
+  button: Continuar
+  dialogT: Código inserido
+  dialogC: O código está correto, prossiga para alterar a senha
+  ok: Ok
+  cancel: Cancelar
+  input: Digite seu código de verificação
+  inputLabel: Código
+  validar: Digite o código corretamente
+
+recovery:
+  appBar: Atualizar senha
+  password: Digite sua nova senha
+  passLabel: senha
+  passValidar: Digite sua senha corretamente 
+  passRetry: Digite sua senha novamente
+  buttonT: Atualizar
+  dialogT: Melhoria
+  dialogC: Sua senha foi atualizada corretamente
+  ok: Ok
+
+add:
+  chat: bate-papo
+  favoritos: Contatos favoritos
+  categories:
+    - Mensagens
+    - Ativos
+    - Grupos
+    - Ativos
+  new: Novo
+  textMsj: Enviar uma mensagem
+
+option:
+  appBar: Configuração
+  darkmode: Usar o modo escuro?
+  salir: Desconectar

@@ -1,0 +1,122 @@
+ingreso:
+  usuario: User or Email
+  password: Password
+validadores:
+  usuario: Enter your username or email correctly
+  password: Enter your password correctly
+recuperar:
+  contrasena: Forgot your username or password?
+boton:
+  ingreso: log in
+  amigos: Friensds
+crear:
+  cuenta: Or create an account here!
+crearC:
+  cuenta: Create Account
+  usuario: Enter your name
+  apellidos: Enter your Surname
+  correo: Enter your Email
+  correo2: Mail
+  validarC: Enter your email correctly
+  password: Enter your Password
+  validar: Re-enter your Password
+  crear: Create
+  face: Create with Facebook
+  google: Create with Google
+
+ingresar:
+  face: Login with Facebook
+  ggle: Login with Google
+
+reporte:
+  title: Carrying signs and flags ...
+  body: Arequipa Main Square, Arequipa 04001
+  maps: Show in maps
+  verrep: Check Report
+
+notificacion:
+  title: Notifications
+  subtitle: NEW
+  msj: I invite you to comment
+  time: 24 minutes ago
+
+user:
+  appBar: User
+  title: Modify Report
+  content: Are you sure you want to Modify the report
+  ok: OKAY
+  cancel: Cancel
+  title2: Delete Report
+  content2: Are you sure you want to delete the report
+  butonmod: Modify
+  butoneli: Remove
+  
+connections:
+  publicacion: Publications
+  seguidores: Followers
+  puntos: Points
+  header: Level 3 - Citizen
+
+crearReport:
+  title: Create Report
+  iconText: To post
+  titleReport: Report title
+  content: Report content
+  button: Add Image
+
+recuperarCuenta:
+  appBar: Recover account
+  texto: Enter your email
+  correo: Enter your Email
+  correolabel: Email
+  validar: Enter your email correctly
+  button: Send
+  title: Recover password
+  content: A recovery code was sent to your email
+  ok: OKAY
+
+codigoV:
+  appBar: Enter the code
+  button: Continue
+  dialogT: Code Entered
+  dialogC: The code is correct, proceed to change the password
+  ok: OKAY
+  cancel: Cancel
+  input: Enter your Verification Code
+  inputLabel: Code
+  validar: Enter the code correctly
+
+recovery:
+  appBar: Update Password
+  password: Enter your new password
+  passLabel: Password
+  passValidar: Enter a password correctly
+  passRetry: Re-enter your Password
+  buttonT: To update
+  dialogT: Upgrade
+  dialogC: Your password was updated correctly
+  ok: OKAY
+
+add:
+  chat: Chats
+  favoritos: Favorite Contacts
+  categories:
+    - Messages
+    - Active Contacts
+    - Groups
+    - Requests
+  dias:
+    - Lun
+    - Mar
+    - Mie
+    - Jue
+    - Vie
+    - Sab
+    - Dom
+  new: NEW
+  textMsj: Send a message...
+
+option:
+  appBar: Setting
+  darkmode: Use Dark mode?
+  salir: Sign Out
